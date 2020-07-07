@@ -1,1 +1,2 @@
 this is my first doc for testing purpose.
+I'm adding a new line to my-second-branch.
